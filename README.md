@@ -56,7 +56,7 @@ El docente revisa el PR y lo mergea.
 
 ## Licencia
 
-El código de los trabajos se libera bajo **Apache 2.0** (ver `LICENSE`).
+El código de los trabajos se libera bajo **MIT** (ver `LICENSE`).
 Los documentos PDF/LaTeX bajo **CC BY 4.0**. Al hacer push a este
 repositorio, el alumno acepta estas licencias para su contribución.
 
