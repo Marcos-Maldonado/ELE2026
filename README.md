@@ -1,6 +1,6 @@
 # ELE2026 — Ejercicios y Cálculos
 
-Repositorio del curso de **Electromecánica 2026**, Departamento de Electromecánica,
+Repositorio del curso de **Electrotecnia II 2026**, Departamento de Electromecánica,
 Facultad de Ingeniería, Universidad Nacional de San Juan.
 
 Espacio compartido donde los alumnos suben ejercicios resueltos, cálculos y
